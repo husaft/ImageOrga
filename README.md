@@ -5,3 +5,4 @@ Organize your chaotic images
 | --- | --- |
 | main.py | Move duplicated and similar pictures into target folder |
 | web.py | Show a website overview of all folders with previews |
+| filter.py | Filter your images into categories manually |
