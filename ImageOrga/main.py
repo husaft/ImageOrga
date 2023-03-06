@@ -19,4 +19,4 @@ def run_tool(repo, dest):
 
 
 if __name__ == '__main__':
-    run_tool('/data/sxnarod', '/data/sorted')
+    run_tool('/data/all', '/data/sorted')
